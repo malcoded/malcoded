@@ -1,5 +1,14 @@
+```
+      _   ___     ___    ____   ____ ____  ___ ____ _____   ____  _  _  ___  
+     | | / \ \   / / \  / ___| / ___|  _ \|_ _|  _ \_   _| |  _ \| |/  / _ \ 
+  _  | |/ _ \ \ / / _ \ \___ \| |   | |_) || || |_) || |   | |_) | ' /| | | |
+ | |_| / ___ \ V / ___ \ ___) | |___|  _ < | ||  __/ | |   |  _ <| . \| |_| |
+  \___/_/   \_\_/_/   \_\____/ \____|_| \_\___|_|    |_|   |_| \_|_|\_\\___/ 
+```
+
 ### Hi there 👋
-🔭 I’m currently working in JS ecosystem
+
+I'm a web developer mostly working in JS ecosystem.
 <!--
 **gvargash/gvargash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
