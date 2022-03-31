@@ -1,21 +1,15 @@
-```
-      _   ___     ___    ____   ____ ____  ___ ____ _____   ____  _  _  ___  
-     | | / \ \   / / \  / ___| / ___|  _ \|_ _|  _ \_   _| |  _ \| |/  / _ \ 
-  _  | |/ _ \ \ / / _ \ \___ \| |   | |_) || || |_) || |   | |_) | ' /| | | |
- | |_| / ___ \ V / ___ \ ___) | |___|  _ < | ||  __/ | |   |  _ <| . \| |_| |
-  \___/_/   \_\_/_/   \_\____/ \____|_| \_\___|_|    |_|   |_| \_|_|\_\\___/ 
-```
-
 ### Hi there 👋
 
 I'm a web developer mostly working in JS ecosystem.
+
+<a href="https://app.daily.dev/malcode"><img src="https://api.daily.dev/devcards/5dd71f9db777401d988825f94d30f497.png?r=bk0" width="400" alt="Gildo Vargas's Dev Card"/></a>
 <!--
 **gvargash/gvargash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on AmazonTIC
+- 🌱 I’m currently learning phyton 🐍
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
